@@ -29,7 +29,7 @@ body {
 
 header {
     
-    background-image: url(img2/222.png);
+    background-image: url(/img2/222.png);
     background-repeat: no-repeat;
     color: rgb(44, 34, 34);
     padding: 30px 20px;
