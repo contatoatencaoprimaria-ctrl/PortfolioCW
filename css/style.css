@@ -3,6 +3,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+   
 }
 
 .serviços {
@@ -28,7 +30,7 @@ body {
 }
 
 header {
-    
+
 
     color: rgb(44, 34, 34);
     padding: 30px 20px;
